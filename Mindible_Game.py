@@ -1,0 +1,7 @@
+Noun1 = input("Enter Name :")
+Noun2 = input("Enter Where are u want to Go :")
+classs = input("Class :")
+Adjective = input("What I See :")
+Question = input("? :")
+pronoun = input("Pronoun :")
+print(f"My name is {Noun1} I read in {classs} I go to {Noun2} I {Adjective} My Teacher is Angry I dont Know {Question} After some time {pronoun} looks Happy ")
