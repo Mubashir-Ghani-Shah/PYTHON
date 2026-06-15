@@ -1,7 +1,5 @@
-Noun1 = input("Enter Name :")
-Noun2 = input("Enter Where are u want to Go :")
-classs = input("Class :")
-Adjective = input("What I See :")
-Question = input("? :")
-pronoun = input("Pronoun :")
-print(f"My name is {Noun1} I read in {classs} I go to {Noun2} I {Adjective} My Teacher is Angry I dont Know {Question} After some time {pronoun} looks Happy ")
+Noun1 = input("What is KIngdom Name :")
+Adjective1 = input("what is the theme (darkness/brightness) : ")
+Noun2 = input("what is the king name : ")
+
+print(f"In the ancient kingdom of {Noun1}, a magical artifact called the Golden Mandible protected the land from {Adjective1}. One day, the artifact was stolen by a mysterious shadow creature known as the {Noun2} As a young explorer named {Noun2}, you discover an old map hidden inside your grandfather's library. The map reveals the locations of three ancient crystals needed to unlock the {Noun2} fortress.")
